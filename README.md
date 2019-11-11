@@ -1,4 +1,4 @@
-# Tekton-Pipeline
+# Tekton-Pipeline-Lab
 Hands-on lab on CI/CD using Tekton Pipeline on IBM Cloud
 
 # Overview
